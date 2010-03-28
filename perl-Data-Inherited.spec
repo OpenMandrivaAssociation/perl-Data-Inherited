@@ -1,5 +1,5 @@
 %define upstream_name    Data-Inherited
-%define upstream_version 1.100850
+%define upstream_version 1.100860
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
